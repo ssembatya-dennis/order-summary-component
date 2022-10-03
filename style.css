@@ -161,6 +161,7 @@ body {
   font-size: 1.5rem;
   color: #717fa6;
   cursor: pointer;
+  background-color: transparent;
 }
 
 .btn_cancel:hover {
