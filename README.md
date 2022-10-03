@@ -15,10 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Solution URL: [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/responsive-card-component-using-css-flexbox-q1Qt8kU0pf)
+- Live Site URL: [Order summary card challenge #live-site](https://order-summary-component-kdyk.vercel.app/)
 
 ### Built with
 
